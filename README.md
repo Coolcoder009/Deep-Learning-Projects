@@ -1,1 +1,1 @@
-# This Directory is meant for Deep Learning Projects<br>
+# This repository is for Deep Learning Projects<br>
